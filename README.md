@@ -1,3 +1,11 @@
+<img src="https://github.com/EveNavarro/Aplicacion-con-React/blob/master/public/logo192.png" />
+
+# :sparkles: Creando una aplicación con React :sparkles: [pdf](https://github.com/EveNavarro/Aplicacion-con-React/blob/master/public/Ejercitaci%C3%B3n%20-%20Creando%20una%20aplicaci%C3%B3n%20con%20React.pdf)
+
+## Preview de la ejercitación
+
+<img src="https://github.com/EveNavarro/Aplicacion-con-React/blob/master/public/dashboard.png" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
