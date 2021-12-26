@@ -1,6 +1,6 @@
 <img src="https://github.com/EveNavarro/Aplicacion-con-React/blob/master/public/logo192.png" />
 
-# :sparkles: Creando una aplicación con React :sparkles: [pdf](https://github.com/EveNavarro/Aplicacion-con-React/blob/master/public/Ejercitaci%C3%B3n%20-%20Creando%20una%20aplicaci%C3%B3n%20con%20React.pdf)
+# :sparkles: ..Creando una aplicación con React.. :sparkles: [pdf](https://github.com/EveNavarro/Aplicacion-con-React/blob/master/public/Ejercitaci%C3%B3n%20-%20Creando%20una%20aplicaci%C3%B3n%20con%20React.pdf)
 
 ## Preview de la ejercitación
 
